@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"q01_duplicate"},{"l":"q02_identical"},{"l":"q03_loan"},{"l":"q04_inheritance"},{"l":"q04_latebindingpolymorphism"},{"l":"q04_polymorphism"},{"l":"q06_triangle"},{"l":"q07_enum"},{"l":"q07_enumexample2"},{"l":"q08_One"},{"l":"q5_class"}]
